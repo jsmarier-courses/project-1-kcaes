@@ -118,3 +118,11 @@ a {
   .image-with-border {
     border: 2px solid #131359;
 }
+
+h4 {
+    text-shadow: 2px 2px 4px #87bee5;
+  }
+
+.medium-text {
+    font-size: 24px; 
+  }

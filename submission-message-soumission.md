@@ -14,7 +14,7 @@ https://jsmarier.github.io/Template-for-the-Website-Project/
 
 1. Changed the color of the links in the "Here are some interesting links" section to red.
 2. Changed the font-family to Georgia, serif. 
-3. Changed the color of text within pages to black.
+3. Changed the color of text to black for all pages.
 4. Added underlining to h1 heading elements.
 5. Modified the pages background color to a very light blue. 
 6. Changed footer color to match the blue from the top mennu bar.
@@ -22,4 +22,9 @@ https://jsmarier.github.io/Template-for-the-Website-Project/
 8. Changed font style of logo to Verdana, sans-serif. 
 9. Changed a parahraph in index.html to italics.
 10. Added a 2px border around the three images.
+11. Added a text shadow to h4 heading elements.
+12. Increased the font size to 24px for the paragragph that follows the h1 element, for all pages.
+13.
+14.
+15.
 
