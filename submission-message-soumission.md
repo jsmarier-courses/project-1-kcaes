@@ -21,5 +21,5 @@ https://jsmarier.github.io/Template-for-the-Website-Project/
 7. Increased front size of logo to 38px. 
 8. Changed font style of logo to Verdana, sans-serif. 
 9. Changed a parahraph in index.html to italics.
-10.
+10. Added a 2px border around the three images.
 
