@@ -2,7 +2,7 @@
 
 ##Nom de l'étudiant | Student Name:
 
-John Smith
+Kayla Caesar
 
 ##GitHub Pages:
 
@@ -12,9 +12,7 @@ https://jsmarier.github.io/Template-for-the-Website-Project/
 
 ##CSS:
 
-1. I used crimson as a colour for my h1 headings.
-2. J'ai ajouté une classe h2-bleu à certains titres de niveau 2 et ai modifié la feuille CSS pour les rendre bleus.
-3. I changed the background colour from whitesmoke to darkblue.
-4. J'ai mis Arial comme police par défaut pour tous les paragraphes.
-5. I used a font size of 18px in my paragraphs.
-6. Etc.
+1. Changed the color of the links in the "Here are some interesting links" section to red.
+2. Changed the font-family to Georgia, serif. 
+3. Added underlining to h1 heading elements.
+4.

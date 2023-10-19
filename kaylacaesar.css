@@ -1,7 +1,7 @@
 html, body {
     margin: 0;
     padding: 0px 0px 0px 0px;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Georgia', serif;
     color: #666666;
 }
 
@@ -100,4 +100,12 @@ body {
 .footer-content a:link {
     color: white;
     text-decoration: none;
+}
+
+a {
+    color: #a21313;
+  }
+
+.head1-underline {
+    text-decoration: underline;
 }
