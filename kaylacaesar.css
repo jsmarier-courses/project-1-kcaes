@@ -110,3 +110,7 @@ a {
 .head1-underline {
     text-decoration: underline;
 }
+
+.italic-text {
+    font-style: italic;
+  }

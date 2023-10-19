@@ -20,4 +20,6 @@ https://jsmarier.github.io/Template-for-the-Website-Project/
 6. Changed footer color to match the blue from the top mennu bar.
 7. Increased front size of logo to 38px. 
 8. Changed font style of logo to Verdana, sans-serif. 
+9. Changed a parahraph in index.html to italics.
+10.
 
