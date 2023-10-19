@@ -21,10 +21,11 @@ https://jsmarier.github.io/Template-for-the-Website-Project/
 7. Increased front size of logo to 38px. 
 8. Changed font style of logo to Verdana, sans-serif. 
 9. Changed a parahraph in index.html to italics.
-10. Added a 2px border around the three images.
-11. Added a text shadow to h4 heading elements.
-12. Increased the font size to 24px for the paragragph that follows the h1 element, for all pages.
-13.
-14.
-15.
+10. Added a the font weight to bold for the italized paragragph. 
+11. Added a 2px border around the three images.
+12. Added a text shadow to h4 heading elements.
+13. Increased the font size to 24px for the paragragph that follows the h1 element, for all pages.
+14. Created a text decoration to put a line through text.
+15. Adjusted the text decoration thickness to 2px.
+
 
